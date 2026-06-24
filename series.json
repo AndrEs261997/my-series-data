@@ -1,172 +1,25 @@
 [
   {
-    "id": 48138,
-    "customPosterPath": "https://image.tmdb.org/t/p/original/uEzoH65RjqPYBcpSFu4gLstNoo5.jpg",
-    "title": "Desconocido (2011)",
-    "overview": "Un hombre despierta de un coma y descubre que alguien ha usurpado su identidad y que nadie (ni siquiera su esposa) le cree.",
-    "backdrop_path": "https://image.tmdb.org/t/p/original/yJrioAffuar2FAm16EGrQqdqaaI.jpg",
-    "logo_path": "https://image.tmdb.org/t/p/original/q0sRe50WkUoIT8dZpS6pLLm10F4.png",
-    "release_date": "2011",
-    "runtime": "1h 53m"
+    "id": 1396,
+    "title": "Breaking Bad",
+    "posterPath": "https://media.themoviedb.org/t/p/w600_and_h900_face/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+    "seasons": [
+      {
+        "season_number": 1,
+        "title": "Temporada 1",
+        "posterPath": "https://media.themoviedb.org/t/p/w260_and_h390_face/kmMkmUOdDzbYNFKkMLSRpxEgsvQ.jpg"
+      },
+      {
+        "season_number": 2,
+        "title": "Temporada 2",
+        "posterPath": "https://media.themoviedb.org/t/p/w260_and_h390_face/j5L399rdZOm2zdiBn08ixLomthC.jpg"
+      }
+    ]
   },
   {
-    "id": 48138,
-    "customPosterPath": "https://image.tmdb.org/t/p/original/uEzoH65RjqPYBcpSFu4gLstNoo5.jpg",
-    "title": "Desconocido (2011)",
-    "overview": "Un hombre despierta de un coma y descubre que alguien ha usurpado su identidad y que nadie (ni siquiera su esposa) le cree.",
-    "backdrop_path": "https://image.tmdb.org/t/p/original/yJrioAffuar2FAm16EGrQqdqaaI.jpg",
-    "logo_path": "https://image.tmdb.org/t/p/original/q0sRe50WkUoIT8dZpS6pLLm10F4.png",
-    "release_date": "2011",
-    "runtime": "1h 53m"
-  },
-  {
-    "id": 48138,
-    "customPosterPath": "https://image.tmdb.org/t/p/original/uEzoH65RjqPYBcpSFu4gLstNoo5.jpg",
-    "title": "Desconocido (2011)",
-    "overview": "Un hombre despierta de un coma y descubre que alguien ha usurpado su identidad y que nadie (ni siquiera su esposa) le cree.",
-    "backdrop_path": "https://image.tmdb.org/t/p/original/yJrioAffuar2FAm16EGrQqdqaaI.jpg",
-    "logo_path": "https://image.tmdb.org/t/p/original/q0sRe50WkUoIT8dZpS6pLLm10F4.png",
-    "release_date": "2011",
-    "runtime": "1h 53m"
-  },
-  {
-    "id": 48138,
-    "customPosterPath": "https://image.tmdb.org/t/p/original/uEzoH65RjqPYBcpSFu4gLstNoo5.jpg",
-    "title": "Desconocido (2011)",
-    "overview": "Un hombre despierta de un coma y descubre que alguien ha usurpado su identidad y que nadie (ni siquiera su esposa) le cree.",
-    "backdrop_path": "https://image.tmdb.org/t/p/original/yJrioAffuar2FAm16EGrQqdqaaI.jpg",
-    "logo_path": "https://image.tmdb.org/t/p/original/q0sRe50WkUoIT8dZpS6pLLm10F4.png",
-    "release_date": "2011",
-    "runtime": "1h 53m"
-  },
-  {
-    "id": 48138,
-    "customPosterPath": "https://image.tmdb.org/t/p/original/uEzoH65RjqPYBcpSFu4gLstNoo5.jpg",
-    "title": "Desconocido (2011)",
-    "overview": "Un hombre despierta de un coma y descubre que alguien ha usurpado su identidad y que nadie (ni siquiera su esposa) le cree.",
-    "backdrop_path": "https://image.tmdb.org/t/p/original/yJrioAffuar2FAm16EGrQqdqaaI.jpg",
-    "logo_path": "https://image.tmdb.org/t/p/original/q0sRe50WkUoIT8dZpS6pLLm10F4.png",
-    "release_date": "2011",
-    "runtime": "1h 53m"
-  },
-  {
-    "id": 48138,
-    "customPosterPath": "https://image.tmdb.org/t/p/original/uEzoH65RjqPYBcpSFu4gLstNoo5.jpg",
-    "title": "Desconocido (2011)",
-    "overview": "Un hombre despierta de un coma y descubre que alguien ha usurpado su identidad y que nadie (ni siquiera su esposa) le cree.",
-    "backdrop_path": "https://image.tmdb.org/t/p/original/yJrioAffuar2FAm16EGrQqdqaaI.jpg",
-    "logo_path": "https://image.tmdb.org/t/p/original/q0sRe50WkUoIT8dZpS6pLLm10F4.png",
-    "release_date": "2011",
-    "runtime": "1h 53m"
-  },
-  {
-    "id": 48138,
-    "customPosterPath": "https://image.tmdb.org/t/p/original/uEzoH65RjqPYBcpSFu4gLstNoo5.jpg",
-    "title": "Desconocido (2011)",
-    "overview": "Un hombre despierta de un coma y descubre que alguien ha usurpado su identidad y que nadie (ni siquiera su esposa) le cree.",
-    "backdrop_path": "https://image.tmdb.org/t/p/original/yJrioAffuar2FAm16EGrQqdqaaI.jpg",
-    "logo_path": "https://image.tmdb.org/t/p/original/q0sRe50WkUoIT8dZpS6pLLm10F4.png",
-    "release_date": "2011",
-    "runtime": "1h 53m"
-  },
-  {
-    "id": 48138,
-    "customPosterPath": "https://image.tmdb.org/t/p/original/uEzoH65RjqPYBcpSFu4gLstNoo5.jpg",
-    "title": "Desconocido (2011)",
-    "overview": "Un hombre despierta de un coma y descubre que alguien ha usurpado su identidad y que nadie (ni siquiera su esposa) le cree.",
-    "backdrop_path": "https://image.tmdb.org/t/p/original/yJrioAffuar2FAm16EGrQqdqaaI.jpg",
-    "logo_path": "https://image.tmdb.org/t/p/original/q0sRe50WkUoIT8dZpS6pLLm10F4.png",
-    "release_date": "2011",
-    "runtime": "1h 53m"
-  },
-  {
-    "id": 48138,
-    "customPosterPath": "https://image.tmdb.org/t/p/original/uEzoH65RjqPYBcpSFu4gLstNoo5.jpg",
-    "title": "Desconocido (2011)",
-    "overview": "Un hombre despierta de un coma y descubre que alguien ha usurpado su identidad y que nadie (ni siquiera su esposa) le cree.",
-    "backdrop_path": "https://image.tmdb.org/t/p/original/yJrioAffuar2FAm16EGrQqdqaaI.jpg",
-    "logo_path": "https://image.tmdb.org/t/p/original/q0sRe50WkUoIT8dZpS6pLLm10F4.png",
-    "release_date": "2011",
-    "runtime": "1h 53m"
-  },
-  {
-    "id": 48138,
-    "customPosterPath": "https://image.tmdb.org/t/p/original/uEzoH65RjqPYBcpSFu4gLstNoo5.jpg",
-    "title": "Desconocido (2011)",
-    "overview": "Un hombre despierta de un coma y descubre que alguien ha usurpado su identidad y que nadie (ni siquiera su esposa) le cree.",
-    "backdrop_path": "https://image.tmdb.org/t/p/original/yJrioAffuar2FAm16EGrQqdqaaI.jpg",
-    "logo_path": "https://image.tmdb.org/t/p/original/q0sRe50WkUoIT8dZpS6pLLm10F4.png",
-    "release_date": "2011",
-    "runtime": "1h 53m"
-  },
-  {
-    "id": 48138,
-    "customPosterPath": "https://image.tmdb.org/t/p/original/uEzoH65RjqPYBcpSFu4gLstNoo5.jpg",
-    "title": "Desconocido (2011)",
-    "overview": "Un hombre despierta de un coma y descubre que alguien ha usurpado su identidad y que nadie (ni siquiera su esposa) le cree.",
-    "backdrop_path": "https://image.tmdb.org/t/p/original/yJrioAffuar2FAm16EGrQqdqaaI.jpg",
-    "logo_path": "https://image.tmdb.org/t/p/original/q0sRe50WkUoIT8dZpS6pLLm10F4.png",
-    "release_date": "2011",
-    "runtime": "1h 53m"
-  },
-  {
-    "id": 293660,
-    "customPosterPath": "https://image.tmdb.org/t/p/original/pcZT1Ouq99dY6J2iGXjMxw16x6o.jpg",
-    "title": "Deadpool (2016)",
-    "overview": "Wade Wilson, quien, tras ser sometido a un experimento clandestino que le otorga poderes de curación acelerada, adopta el álter ego de Deadpool.",
-    "backdrop_path": "https://image.tmdb.org/t/p/original/en971MEXui9diirXlogOrPKmsEn.jpg",
-    "logo_path": "https://image.tmdb.org/t/p/original/zXyTWeQemn7yfvHLrEWWENkJzmT.png",
-    "release_date": "2016",
-    "runtime": "1h 54m"
-  },
-  {
-    "id": 293660,
-    "customPosterPath": "https://image.tmdb.org/t/p/original/pcZT1Ouq99dY6J2iGXjMxw16x6o.jpg",
-    "title": "Deadpool (2016)",
-    "overview": "Wade Wilson, quien, tras ser sometido a un experimento clandestino que le otorga poderes de curación acelerada, adopta el álter ego de Deadpool.",
-    "backdrop_path": "https://image.tmdb.org/t/p/original/en971MEXui9diirXlogOrPKmsEn.jpg",
-    "logo_path": "https://image.tmdb.org/t/p/original/zXyTWeQemn7yfvHLrEWWENkJzmT.png",
-    "release_date": "2016",
-    "runtime": "1h 54m"
-  },
-  {
-    "id": 293660,
-    "customPosterPath": "https://image.tmdb.org/t/p/original/pcZT1Ouq99dY6J2iGXjMxw16x6o.jpg",
-    "title": "Deadpool (2016)",
-    "overview": "Wade Wilson, quien, tras ser sometido a un experimento clandestino que le otorga poderes de curación acelerada, adopta el álter ego de Deadpool.",
-    "backdrop_path": "https://image.tmdb.org/t/p/original/en971MEXui9diirXlogOrPKmsEn.jpg",
-    "logo_path": "https://image.tmdb.org/t/p/original/zXyTWeQemn7yfvHLrEWWENkJzmT.png",
-    "release_date": "2016",
-    "runtime": "1h 54m"
-  },
-  {
-    "id": 293660,
-    "customPosterPath": "https://image.tmdb.org/t/p/original/pcZT1Ouq99dY6J2iGXjMxw16x6o.jpg",
-    "title": "Deadpool (2016)",
-    "overview": "Wade Wilson, quien, tras ser sometido a un experimento clandestino que le otorga poderes de curación acelerada, adopta el álter ego de Deadpool.",
-    "backdrop_path": "https://image.tmdb.org/t/p/original/en971MEXui9diirXlogOrPKmsEn.jpg",
-    "logo_path": "https://image.tmdb.org/t/p/original/zXyTWeQemn7yfvHLrEWWENkJzmT.png",
-    "release_date": "2016",
-    "runtime": "1h 54m"
-  },
-  {
-    "id": 293660,
-    "customPosterPath": "https://image.tmdb.org/t/p/original/pcZT1Ouq99dY6J2iGXjMxw16x6o.jpg",
-    "title": "Deadpool (2016)",
-    "overview": "Wade Wilson, quien, tras ser sometido a un experimento clandestino que le otorga poderes de curación acelerada, adopta el álter ego de Deadpool.",
-    "backdrop_path": "https://image.tmdb.org/t/p/original/en971MEXui9diirXlogOrPKmsEn.jpg",
-    "logo_path": "https://image.tmdb.org/t/p/original/zXyTWeQemn7yfvHLrEWWENkJzmT.png",
-    "release_date": "2016",
-    "runtime": "1h 54m"
-  },
-  {
-    "id": 286217,
-    "customPosterPath": "https://image.tmdb.org/t/p/original/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg",
-    "title": "The Martian (2015)",
-    "overview": "Durante una misión tripulada a Marte, el astronauta Mark Watney es dado por muerto tras una feroz tormenta y abandonado por su tripulación.",
-    "backdrop_path": "https://image.tmdb.org/t/p/original/79s02GrDGZcdrinqvi8SlYqzV50.jpg",
-    "logo_path": "https://image.tmdb.org/t/p/original/fNPckRkKV2eJJtnDPbinDY92CX2.png",
-    "release_date": "2015",
-    "runtime": "1h 55m"
+    "id": 66732,
+    "title": "Stranger Things",
+    "posterPath": "...",
+    "seasons": [...]
   }
 ]
