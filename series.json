@@ -2,17 +2,17 @@
   {
     "id": 1396,
     "title": "Breaking Bad",
-    "posterPath": "https://media.themoviedb.org/t/p/w600_and_h900_face/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+    "customPosterPath": "https://media.themoviedb.org/t/p/w600_and_h900_face/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
     "seasons": [
       {
         "season_number": 1,
         "title": "Temporada 1",
-        "posterPath": "https://media.themoviedb.org/t/p/w260_and_h390_face/kmMkmUOdDzbYNFKkMLSRpxEgsvQ.jpg"
+        "customPosterPath": "https://media.themoviedb.org/t/p/w260_and_h390_face/kmMkmUOdDzbYNFKkMLSRpxEgsvQ.jpg"
       },
       {
         "season_number": 2,
         "title": "Temporada 2",
-        "posterPath": "https://media.themoviedb.org/t/p/w260_and_h390_face/j5L399rdZOm2zdiBn08ixLomthC.jpg"
+        "customPosterPath": "https://media.themoviedb.org/t/p/w260_and_h390_face/j5L399rdZOm2zdiBn08ixLomthC.jpg"
       }
     ]
   },
